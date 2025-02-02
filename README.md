@@ -25,6 +25,10 @@ manage product data, including adding, updating, viewing, and deleting product e
 
 2 Run it in any IDE
 
+3 Bonus : if you want to use it onw your own data just change the list in 
+          in the start of the program with a list of your choice but make sure that 
+          it follows the same parameters that the table has you can ask Chat-GPT to make changes for you
+
 ## Why I Made This
 
 I built this project to get a better understanding of how databases work,
