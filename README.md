@@ -1,7 +1,7 @@
 
 
-** Inventory Management System using SQLite & Python**
- About Me
+**## Inventory Management System using SQLite & Python**
+
 
 Hello! My name is Saad, and I’m a first-year high school student.
 I do coding as a hobby, and I love diving into new projects. This is my first personal project that’s a bit bigger than my usual ones, but honestly,
