@@ -1,6 +1,6 @@
 
 
-**## Inventory Management System using SQLite & Python**
+## Inventory Management System using SQLite & Python
 
 
 Hello! My name is Saad, and I’m a first-year high school student.
